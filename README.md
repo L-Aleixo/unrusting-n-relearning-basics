@@ -1,0 +1,3 @@
+This repository is where I'll keep my studying projects while unrusting my programming skills for front and back end.
+I aim to make all of them modularly multilingual (currently featuring english and portuguese) and as well-documented as I can.
+The projects might occasionally be assisted by AI's, but are *not* being vibe-coded. The use of LLM's is restricted to debugging, optimization, and organization.

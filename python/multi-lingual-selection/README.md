@@ -1,0 +1,1 @@
+A simple script to test language selection in applications.
