@@ -1,6 +1,0 @@
-{
-    "java.project.referencedLibraries": [
-        "lib/**/*.jar",
-        "java/multi-lingual-selection/lib/json.jar"
-    ]
-}
